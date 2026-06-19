@@ -142,8 +142,8 @@ foreach($fNames as $i => $fName)
 </body>
 </html>
 ```
-## 1. PHP-class and functions decodingDigitsIntoLetters
-## 1.1 PHP-class decodingDigitsIntoLetters
+## 2. PHP-class and functions decodingDigitsIntoLetters
+## 2.1 PHP-class decodingDigitsIntoLetters
 ### File decodingDigitsIntoLettersClass.php
 ```php
 <?PHP
@@ -388,7 +388,7 @@ class decodingDigitsIntoLetters{
 }
 ?>
 ```
-## 1.2 PHP-functions decodingDigitsIntoLetters
+## 2.2 PHP-functions decodingDigitsIntoLetters
 
 ### File decodingDigitsIntoLettersFunctions.php
 ```php
@@ -608,8 +608,8 @@ function decoding($taskDescription){
 }
 ?>
 ```
-## 2 Function solve_cryptarithmetic
-## 2.1 Python-Function solve_cryptarithmetic from Google
+## 3 Function solve_cryptarithmetic
+## 3.1 Python-Function solve_cryptarithmetic from Google
 ### File solve_cryptarithmetic.py
 
 ```python
@@ -660,7 +660,7 @@ print(result)
 
 ```
 
-## 2.2 Аdapting Python code into PHP
+## 3.2 Аdapting Python code into PHP
 ### File solve_cryptarithmetic.php
 ```php
 <?PHP
@@ -760,7 +760,7 @@ function solve_cryptarithmetic($taskDescription){
 ?>
 ```
 
-## 3. Output from index.php
+## 4. Output from index.php
 ```
 
     decodingDigitsIntoLettersClass.php
